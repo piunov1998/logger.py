@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "logger.py"
 packages = [{ include = "logger" }]
-version = "1.0.0"
+version = "1.1.0"
 description = "Simple logger with text and ASCII-color modes"
 authors = ["Anton <piunov.doc@gmail.com>"]
 license = "LICENSE.md"
